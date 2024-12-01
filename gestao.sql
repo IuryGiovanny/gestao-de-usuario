@@ -16,8 +16,8 @@
 
 
 -- Copiando estrutura do banco de dados para minha_loja
-CREATE DATABASE IF NOT EXISTS `minha_loja` /*!40100 DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_0900_ai_ci */ /*!80016 DEFAULT ENCRYPTION='N' */;
-USE `minha_loja`;
+CREATE DATABASE IF NOT EXISTS `gestao` /*!40100 DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_0900_ai_ci */ /*!80016 DEFAULT ENCRYPTION='N' */;
+USE `gestao`;
 
 -- Copiando estrutura para tabela minha_loja.usuario
 CREATE TABLE IF NOT EXISTS `usuario` (

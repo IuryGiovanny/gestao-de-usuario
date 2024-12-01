@@ -43,11 +43,11 @@ O projeto segue a seguinte estrutura de diretórios:
 
 1. **Clone o repositório**:
     ```bash
-    git clone https://github.com/seu-usuario/seu-repositorio.git
+    git clone https://github.com/IuryGiovanny/gestao-de-usuario.git
     ```
 
 2. **Configuração do Banco de Dados**:
-    - Crie um banco de dados no MySQL chamado `minha_loja`.
+    - Crie um banco de dados no MySQL chamado `gestao`.
     - Importe o arquivo de esquema (SQL) para criar a tabela `usuario`.
 
     Exemplo de comando SQL para criar a tabela:
@@ -64,7 +64,7 @@ O projeto segue a seguinte estrutura de diretórios:
     INSERT INTO usuario (nome, email, senha) 
     VALUES ('Administrador', 'admin@gmail.com', '12345');
     ```
-    
+
 3. **Configuração do Arquivo de Conexão**:
     - No arquivo `/config/database.php`, insira as credenciais de acesso ao banco de dados:
     ```php
