@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Minha Loja</title>
+    <title>Gestão de Usuários</title>
 
     <!-- Link para o CSS do Bootstrap (local) -->
     <link href="../assets/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
@@ -19,7 +19,7 @@
      <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
         <div class="container-fluid">
             <!-- Logo ou nome do site -->
-            <a class="navbar-brand" href="#">Minha Loja</a>
+            <a class="navbar-brand" href="#">Gestão de Usuários</a>
 
             <!-- Botão que aparece em telas pequenas (Hamburger Menu) -->
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Alternar navegação">
